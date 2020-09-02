@@ -1,0 +1,47 @@
+.footer{
+   margin-top: 5rem;
+    padding: 3rem;
+    width: 100%;
+    box-shadow: #c1cbff 2rem 2rem 2rem 2rem;
+ 
+}
+.footer_link{
+
+    width: 3rem;
+}
+.form_input{
+
+    border: none;
+    background: white;
+    width: 20rem;
+    height: 3rem;
+    border-radius:0px;
+    box-shadow: #c1cbff 0px 1px 19px 4px;
+}
+@media screen and (max-width: 600px) {
+    .form_input{
+        width: 15rem;
+    }
+  }
+.form_input:focus{
+
+    border-color: white !important;
+}
+.footer_but{
+    border: none;
+    margin-top: 2rem;
+    padding: 1rem 5rem 1rem 5rem;
+    background: #454ee8;
+    color: white;
+}
+._list{
+    line-height: 4rem;
+}
+.socials{
+
+    margin: 3rem 1rem 1rem 0rem;
+    padding: 0rem;
+    font-size: 2rem;
+    letter-spacing: 2rem;
+    color: #454ee8;
+}

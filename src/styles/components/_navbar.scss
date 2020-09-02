@@ -1,0 +1,30 @@
+
+  $animate: all 0.9s ease-in-out;
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #6A86CF;
+  
+    transition: $animate;
+}
+.nav_link{
+    margin-right: 5rem;
+}
+.logo_link{
+
+    width: 60%;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+
+    color: #164acc;
+    border-bottom: solid;
+}
+.navbar-dark .navbar-nav .nav-link:active{
+
+    color: #164acc;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus {
+
+    color: #164acc;
+}

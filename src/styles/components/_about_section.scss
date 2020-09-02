@@ -1,0 +1,18 @@
+.about_sec_img{
+    background-color: #164acc;
+    width: 4rem;
+    border-radius: 4rem;
+    padding: 1rem;
+    text-align: center;
+    transition: ease-in 500ms;
+}
+
+.about_sec_img:hover{
+    width: 5rem;
+    text-align: center;
+}
+.about_sec{
+    text-align: center;
+    margin-top: 7rem;
+    margin-bottom: 4rem;
+}

@@ -1,0 +1,24 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import"./styles/components/_navbar.scss";
+@import"./styles/pages/_home.scss";
+@import"./styles/pages/_about.scss";
+@import "./styles/components/header_section";
+@import "./styles/components/_about_section";
+@import "./styles/components/_contact_section";
+@import "./styles/components/_price_table";
+@import "./styles/pages/_order";
+// @import "./styles/Home.scss";
+// @import "./styles/About.scss";
+// @import "./styles/Contact.scss";
+// @import "./styles/Quote.scss";
+ @import "./styles/components/footer";
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+
+body{
+    font-family: 'Nunito', sans-serif;
+    
+  }
+  #main{
+    margin-top: 1rem;
+  }
