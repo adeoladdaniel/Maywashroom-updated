@@ -13,7 +13,7 @@ return (
 
             <Container>
                 <Row>
-                    <Col md="4">
+                    <Col md={4}>
                     <img className="footer_link" src="./img/Group 4.png" alt =""/>
                     <br/>
 
@@ -23,7 +23,7 @@ return (
                    <button className="footer_but"> SUSCRIBE</button>
                     </Col>
 
-                    <Col md="4">
+                    <Col md={4}>
                         <h5 style={{margin:"1rem"}}>
                         Information
                         </h5>
@@ -37,7 +37,7 @@ return (
                     
                     </Col>
 
-                    <Col md="4">
+                    <Col md={4}>
 
 
 
